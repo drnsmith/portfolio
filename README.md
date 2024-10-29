@@ -1,5 +1,4 @@
-# Dr. Natasha Smith, Ph.D.
-**Data Scientist | AI & ML Specialist | Business Economist**
+# Data Scientist | AI & ML Specialist | Business Economist
 
 With over a decade of experience in academia and industry, I specialise in applying data science, AI, and machine learning to real-world problems, particularly in healthcare and economics. I bridge interdisciplinary fields, using my background in economics and computer science to drive impactful, data-driven innovation.
 
